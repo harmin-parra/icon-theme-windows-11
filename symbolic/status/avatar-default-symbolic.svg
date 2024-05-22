@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="10.054167" y1="7.9375" x2="38.837044" y2="38.861431" gradientTransform="matrix(0.5,0,0,0.5,0,0)">
+<stop offset="0" style="stop-color:rgb(96.470588%,96.078431%,95.686275%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(80%,80%,80%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.25098;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="8.466666" y1="2.010832" x2="8.466666" y2="8.202083" gradientTransform="matrix(1.090248,0,0,1.090248,2.769231,2.307693)">
+<stop offset="0" style="stop-color:rgb(30.980392%,30.980392%,30.980392%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(18.823529%,18.823529%,18.823529%);stop-opacity:1;"/>
+</linearGradient>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="24" height="24"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 12 4.5 C 10.136719 4.5 8.625 6.011719 8.625 7.875 C 8.625 9.738281 10.136719 11.25 12 11.25 C 13.863281 11.25 15.375 9.738281 15.375 7.875 C 15.375 6.011719 13.863281 4.5 12 4.5 Z M 7.875 12.75 C 6.214844 12.75 5.625 13.882812 5.625 15 L 5.625 15.375 C 5.621094 17.46875 8.871094 19.5 12 19.5 C 15.386719 19.496094 18.359375 17.398438 18.375 15.375 L 18.375 15 C 18.375 13.882812 17.785156 12.75 16.125 12.75 Z M 7.875 12.75 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 22.5 12 C 22.5 17.800781 17.800781 22.5 12 22.5 C 6.199219 22.5 1.5 17.800781 1.5 12 C 1.5 6.199219 6.199219 1.5 12 1.5 C 17.800781 1.5 22.5 6.199219 22.5 12 Z M 22.5 12 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+</g>
+</svg>

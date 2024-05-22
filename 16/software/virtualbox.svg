@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="408.57001" y1="540.79999" x2="408.57001" y2="506.79999" gradientTransform="matrix(0.392157,0,0,0.392157,-152.223553,-197.411693)">
+<stop offset="0" style="stop-color:rgb(16.078431%,50.196078%,72.54902%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(20.392157%,59.607843%,85.882353%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="23.906326" y1="22.994661" x2="42" y2="42" gradientTransform="matrix(0.392157,0,0,0.392157,-1.411767,-1.411764)">
+<stop offset="0" style="stop-color:rgb(16.078431%,17.254902%,18.431373%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear1);" d="M 13.332031 2.667969 L 12.667969 3.332031 L 13.097656 13.097656 L 3.332031 12.667969 L 2.667969 13.332031 L 3.335938 14.3125 L 14.667969 14.3125 L 14.667969 4 Z M 13.332031 2.667969 "/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="10" y1="10" x2="44" y2="44" gradientTransform="matrix(0.392157,0,0,0.392157,-1.411767,-1.411764)">
+<stop offset="0" style="stop-color:rgb(16.078431%,17.254902%,18.431373%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear2);" d="M 2.945312 5.257812 L 3.332031 5.667969 L 5.15625 7.53125 L 6.296875 10.089844 L 6.445312 10.089844 L 6.480469 12.179688 L 7 12.667969 L 7.230469 13.097656 L 13.097656 13.097656 L 13.097656 9.972656 L 10.742188 9.972656 L 9.566406 5.628906 L 8.667969 8.765625 L 7.8125 5.648438 L 6.605469 9.855469 L 6.054688 9.535156 L 5.007812 5.257812 Z M 2.945312 5.257812 "/>
+</g>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="10" y1="10" x2="41.703552" y2="41.703552" gradientTransform="matrix(0.392157,0,0,0.392157,-1.411767,-1.411764)">
+<stop offset="0" style="stop-color:rgb(16.078431%,17.254902%,18.431373%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear3);" d="M 7.835938 4.195312 L 9.574219 5.824219 L 9.523438 4.191406 L 13.097656 7.625 L 13.097656 9.972656 L 10.742188 9.972656 L 9.691406 6.058594 L 8.730469 7.722656 L 7.828125 6.160156 Z M 7.835938 4.195312 "/>
+</g>
+<mask id="mask3">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="15.866084" y1="23.893206" x2="23.068089" y2="23.893206" gradientTransform="matrix(0.392157,0,0,0.392157,-1.411767,-1.411764)">
+<stop offset="0" style="stop-color:rgb(16.078431%,17.254902%,18.431373%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip4">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear4);" d="M 5.332031 5 L 7.414062 7.023438 L 6.453125 10.613281 L 5.019531 5.265625 Z M 5.332031 5 "/>
+</g>
+<mask id="mask4">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.505882;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip5">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface17" clip-path="url(#clip5)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(12.156863%,23.529412%,39.215686%);fill-opacity:1;" d="M 1.332031 14.316406 L 14.667969 14.316406 L 14.667969 14.667969 L 1.332031 14.667969 Z M 1.332031 14.316406 "/>
+</g>
+<linearGradient id="linear5" gradientUnits="userSpaceOnUse" x1="10" y1="24" x2="38" y2="24" gradientTransform="matrix(0.380952,0,0,0.380952,-1.142857,-1.142849)">
+<stop offset="0" style="stop-color:rgb(93.72549%,94.117647%,94.509804%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(98.823529%,98.823529%,98.823529%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 1.332031 1.332031 L 14.667969 1.332031 L 14.667969 14.667969 L 1.332031 14.667969 Z M 1.332031 1.332031 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<use xlink:href="#surface8" mask="url(#mask1)"/>
+<use xlink:href="#surface11" mask="url(#mask2)"/>
+<use xlink:href="#surface14" mask="url(#mask3)"/>
+<use xlink:href="#surface17" mask="url(#mask4)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear5);" d="M 2.667969 2.667969 L 2.667969 13.332031 L 13.332031 13.332031 L 13.332031 2.667969 Z M 3.332031 3.332031 L 12.667969 3.332031 L 12.667969 9.667969 L 11 9.667969 L 9.917969 5.664062 L 9.523438 4.191406 L 9.128906 5.664062 L 8.679688 7.339844 L 8.296875 5.910156 L 8.230469 5.664062 L 7.835938 4.195312 L 6.484375 9.242188 L 5.332031 5 L 3.332031 5 Z M 3.332031 5.667969 L 4.667969 5.667969 L 6.085938 10.710938 L 6.480469 12.179688 L 6.875 10.710938 L 7.835938 7.132812 L 8.285156 8.8125 L 8.679688 10.285156 L 9.074219 8.8125 L 9.523438 7.132812 L 10.332031 10.332031 L 12.667969 10.332031 L 12.667969 12.667969 L 3.332031 12.667969 Z M 3.332031 5.667969 "/>
+</g>
+</svg>

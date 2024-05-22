@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="audio-volume-high.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.125"
+     inkscape:cx="7.9900249"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg423" />
+  <defs
+     id="defs420">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   </style>
+  </defs>
+  <path
+     d="m8 0c-1.1046 0-2 0.89543-2 2h-2v0.00586c-1.113 0.032581-2 0.93345-2 2.0547v8.8789c0 1.142 0.91853 2.0605 2.0605 2.0605h7.8789c1.142 0 2.0605-0.91853 2.0605-2.0605v-8.8789c0-1.142-0.91853-2.0605-2.0605-2.0605h-1.9394c0-0.138-0.00525-0.27625-0.03125-0.40625-0.19615-0.93036-1.0179-1.5956-1.9688-1.5938zm-0.011719 1c0.00391-2.289e-5 0.00781-2.289e-5 0.011719 0 0.414 0 0.75425 0.266 0.90625 0.625 0.056891 0.11716 0.088816 0.24486 0.09375 0.375-6.1e-5 0.88813-1.0716 1.3352-1.7031 0.71094-0.63157-0.62426-0.19666-1.7005 0.69141-1.7109zm-3.9883 2h2v1s-1 0-1 1h6c0-0.75-0.56275-0.953-0.84375-1h-0.15625v-1h2c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z"
+     style="fill:currentColor;stroke-width:2.001;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:normal"
+     class="ColorScheme-Text"
+     id="path408"
+     sodipodi:nodetypes="scccccccssscccssssccccccccscccccccssscccssssccccccccccscc" />
+</svg>

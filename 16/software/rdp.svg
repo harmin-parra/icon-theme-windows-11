@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="21.153" y1="19.898" x2="65.627" y2="64.712" gradientTransform="matrix(0.25,0,0,0.25,0.063185,0.20332)">
+<stop offset="0" style="stop-color:rgb(98.039216%,98.039216%,98.039216%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(78.431373%,78.431373%,78.431373%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="7.0508" y1="7.4237" x2="65.627" y2="64.712" gradientTransform="matrix(0.207063,0,0,0.207063,1.42635,1.5424)">
+<stop offset="0" style="stop-color:rgb(89.411765%,30.196078%,5.882353%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(75.686275%,20.392157%,4.313725%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image6" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAYklEQVQ4je3OIQ7CQBBG4Y8taxFNEBU4BIb7HwjTG7QNTVozctkNGExfMuYl8/Jz8H+6grtiwAUnzN8GbrhHJGGsBdIH1+OBZ+0ZzgW3YItIbgVKC7rwK6ZfFmS88Yo7aLADC04JwkY+DiQAAAAASUVORK5CYII="/>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="25.682" y1="29.125" x2="25.682" y2="52.519" gradientTransform="matrix(0.22576,0,0,0.22576,0.908822,1.8998)">
+<stop offset="0" style="stop-color:rgb(98.039216%,98.039216%,98.039216%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(78.431373%,78.431373%,78.431373%);stop-opacity:1;"/>
+</linearGradient>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image10" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAZUlEQVQ4je3QMQqDUBBF0RMRgrZBkDSWgo3734H7CFiJ2KVKsPmVKAN2gredy5uZx+V5BPMSFerkDlshCwIqdOjR7Al5EPBGixe+e0J0wRNFWvQ/EzDhg9lBX9ELY3IW/AL35rqsCuQJj2kwtnoAAAAASUVORK5CYII="/>
+<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="25.682" y1="29.125" x2="25.682" y2="52.519" gradientTransform="matrix(-0.22576,0,0,0.22576,15.0912,-1.6477)">
+<stop offset="0" style="stop-color:rgb(98.039216%,98.039216%,98.039216%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(78.431373%,78.431373%,78.431373%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 15.5 8 C 15.5 12.140625 12.140625 15.5 8 15.5 C 3.859375 15.5 0.5 12.140625 0.5 8 C 0.5 3.859375 3.859375 0.5 8 0.5 C 12.140625 0.5 15.5 3.859375 15.5 8 Z M 15.5 8 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 14.210938 8 C 14.210938 11.429688 11.429688 14.210938 8 14.210938 C 4.570312 14.210938 1.789062 11.429688 1.789062 8 C 1.789062 4.570312 4.570312 1.789062 8 1.789062 C 11.429688 1.789062 14.210938 4.570312 14.210938 8 Z M 14.210938 8 "/>
+<use xlink:href="#image6" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 5.648438 6.917969 C 5.613281 6.917969 5.574219 6.933594 5.542969 6.964844 L 4.800781 7.703125 C 4.742188 7.761719 4.742188 7.859375 4.800781 7.917969 L 6.664062 9.777344 L 4.808594 11.632812 C 4.75 11.691406 4.75 11.785156 4.808594 11.84375 L 5.550781 12.585938 C 5.609375 12.644531 5.703125 12.644531 5.761719 12.585938 L 8.464844 9.882812 C 8.523438 9.824219 8.523438 9.730469 8.464844 9.671875 L 8.457031 9.664062 L 5.753906 6.964844 C 5.726562 6.933594 5.6875 6.917969 5.648438 6.917969 Z M 5.648438 6.917969 "/>
+<use xlink:href="#image10" mask="url(#mask1)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear3);" d="M 10.351562 3.371094 C 10.386719 3.371094 10.425781 3.386719 10.457031 3.414062 L 11.195312 4.15625 C 11.253906 4.214844 11.253906 4.308594 11.195312 4.367188 L 9.335938 6.230469 L 11.191406 8.082031 C 11.25 8.140625 11.25 8.238281 11.191406 8.296875 L 10.449219 9.035156 C 10.390625 9.097656 10.296875 9.097656 10.238281 9.035156 L 7.535156 6.335938 C 7.476562 6.277344 7.476562 6.183594 7.535156 6.125 L 7.542969 6.117188 L 10.242188 3.414062 C 10.273438 3.386719 10.3125 3.371094 10.351562 3.371094 Z M 10.351562 3.371094 "/>
+</g>
+</svg>
