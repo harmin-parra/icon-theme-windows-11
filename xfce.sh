@@ -4,6 +4,8 @@
 # terminal
 mv 16/apps-utilities/utilities-terminal.svg 16/apps-utilities/_utilities-terminal.svg
 mv symbolic/apps/_utilities-terminal.svg symbolic/apps/utilities-terminal.svg
+mv 16/status/dialog-password.svg 16/status/_dialog-password.svg
+mv symbolic/status/_dialog-password.svg symbolic/status/dialog-password.svg
 
 # help
 mv 16/apps-settings/help-about.svg 16/apps-settings/_help-about.svg
