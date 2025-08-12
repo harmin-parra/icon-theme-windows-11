@@ -1,0 +1,3 @@
+update-icon-caches /path/to/icon/folder
+
+update-mime-database /path/to/mime/folder
