@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+
+    <mime-type type="application/typescript">
+        <comment>Typescript</comment>
+        <sub-class-of type="text/plain" />
+        <!--icon name="text-x-generic"/-->
+        <alias type="application/javascript" />
+        <glob-deleteall />
+        <glob pattern="*.ts" weight="61" />
+    </mime-type>
+
+    <mime-type type="application/x-key">
+        <comment>X.509 key</comment>
+        <sub-class-of type="text/plain" />
+        <!--icon name="text-x-generic" /-->
+        <glob-deleteall />
+        <glob pattern="*.key" weight="81" />
+    </mime-type>
+
+    <mime-type type="application/x-kdbx">
+        <comment>Keypass file</comment>
+        <generic-icon name="application-x-java-keystore" />
+        <!--icon name="text-x-generic" /-->
+        <glob-deleteall />
+        <glob pattern="*.kdbx" weight="81" />
+    </mime-type>
+
+    <!--
+    <mime-type type="application/x-newtype">
+        <comment>new mime type</comment>
+        <glob pattern="*.xyz"/>
+    </mime-type>
+    -->
+
+    <mime-type type="text/css">
+        <comment>CSS stylesheet</comment>
+        <acronym>CSS</acronym>
+        <expanded-acronym>Cascading Style Sheets</expanded-acronym>
+        <sub-class-of type="text/plain" />
+        <glob pattern="*.css" />
+        <glob pattern="*.properties" />
+        <glob pattern="*.ini" />
+    </mime-type>
+
+    <mime-type type="application/x-shellscript">
+        <comment>shell script</comment>
+        <sub-class-of type="application/x-executable" />
+        <sub-class-of type="text/plain" />
+        <alias type="text/x-sh" />
+        <generic-icon name="text-x-script" />
+        <glob pattern="*.sh" />
+        <glob pattern="*.bat" />
+        <glob pattern="*.ps1" />
+    </mime-type>
+
+    <mime-type type="application/x-war">
+        <comment>Web Application Resource</comment>
+        <sub-class-of type="application/zip" />
+        <generic-icon name="package-x-generic" />
+        <glob pattern="*.war" />
+    </mime-type>
+
+</mime-info>
