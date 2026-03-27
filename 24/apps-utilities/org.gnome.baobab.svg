@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="org.gnome.baobab.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.90091286"
+     inkscape:cx="112.10851"
+     inkscape:cy="-4.9949337"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <radialGradient
+       id="a"
+       cx="-492.035"
+       cy="-883.37"
+       r="13.998"
+       gradientTransform="matrix(0.3409875,-0.196875,-0.118125,-0.20475,75.414515,-264.28486)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#7d7d7d"
+         id="stop1" />
+      <stop
+         offset="0.267"
+         stop-color="#7e7c7a"
+         id="stop2" />
+      <stop
+         offset="0.45"
+         stop-color="#817871"
+         id="stop3" />
+      <stop
+         offset="0.608"
+         stop-color="#867162"
+         id="stop4" />
+      <stop
+         offset="0.753"
+         stop-color="#8d684c"
+         id="stop5" />
+      <stop
+         offset="0.886"
+         stop-color="#965c30"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#a04f12"
+         id="stop7" />
+    </radialGradient>
+  </defs>
+  <path
+     id="rect1800"
+     style="fill:#fafafa;stroke-width:0.27"
+     d="m 7.0885907,9.6247467 1.08,1.0800003 h -1.08 z"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#f0785a;stroke-width:0.392749"
+     d="m 12.470633,11.007636 9.93669,-3.6166596 C 20.107013,2.2008776 14.308431,-0.50304561 8.8539749,1.0709453 Z"
+     id="path1" />
+  <path
+     style="fill:#f0ff60;stroke-width:0.392749"
+     d="m 22.533929,16.394895 c 0.97016,-2.321681 1.180642,-4.967884 0.438757,-7.5378701 l -9.325151,3.3940771 z"
+     id="path2" />
+  <path
+     style="fill:#62a0ea;stroke-width:0.392749"
+     d="M 11.151808,11.977493 7.3777175,1.608259 c -5.4280053,2.405709 -8.14042437,8.639131 -6.0794226,14.301687 0.9789849,2.689741 2.8675692,4.78385 5.1902496,6.067949 z"
+     id="path3" />
+  <path
+     style="fill:#2bfc8e;stroke-width:0.392749"
+     d="m 12.243487,13.353124 -4.3313477,9.288605 c 2.4766667,0.953872 5.2948057,1.054546 7.9845477,0.07555 2.57976,-0.938956 4.610986,-2.714374 5.90472,-4.907233 z"
+     id="path4" />
+</svg>
