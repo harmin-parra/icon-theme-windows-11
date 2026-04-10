@@ -27,8 +27,8 @@
      inkscape:cy="7.8925871"
      inkscape:window-width="1528"
      inkscape:window-height="848"
-     inkscape:window-x="127"
-     inkscape:window-y="99"
+     inkscape:window-x="-313"
+     inkscape:window-y="118"
      inkscape:window-maximized="0"
      inkscape:current-layer="surface1" />
   <g
@@ -38,7 +38,7 @@
        d="M 8.3234245,7.2675435 15.279107,4.7358817 C 13.66889,1.1028126 9.609883,-0.78993364 5.7917639,0.31185999 Z"
        id="path1" />
     <path
-       style="fill:#f0ff60;stroke-width:0.274924"
+       style="fill:#fedd00;stroke-width:0.274924;fill-opacity:1"
        d="m 15.367732,11.038625 c 0.679112,-1.6251766 0.826449,-3.477519 0.30713,-5.2765093 l -6.5276062,2.375854 z"
        id="path2" />
     <path
@@ -46,7 +46,7 @@
        d="M 7.400247,7.9464434 4.7583837,0.68797961 C 0.95878,2.3719759 -0.93991339,6.7353713 0.50278787,10.69916 1.1880773,12.581979 2.5100863,14.047855 4.1359626,14.946725 Z"
        id="path3" />
     <path
-       style="fill:#2bfc8e;stroke-width:0.274924"
+       style="fill:#4aab0c;stroke-width:0.274924;fill-opacity:1"
        d="M 8.1644223,8.9093851 5.132479,15.411408 c 1.7336666,0.667711 3.7063639,0.738183 5.589183,0.05288 1.805832,-0.657269 3.22769,-1.900061 4.133304,-3.435063 z"
        id="path4" />
   </g>
